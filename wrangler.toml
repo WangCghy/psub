@@ -1,7 +1,0 @@
-name = "your-worker-name"
-type = "javascript"
-main = "_worker.js"
-account_id = "your-account-id"
-workers_dev = true
-compatibility_date = "2024-11-20"
-account_id = "df7c35862c0b16e0c3abc0b72688ac63"
