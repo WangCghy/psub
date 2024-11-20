@@ -22,4 +22,4 @@ KV或R2变量名：`SUB_BUCKET`
 ### 打赏
 请我喝矿泉水：[全专线中专机场AFF链接](http://b.880805.xyz/)
 
-请我喝桶装水：[搬瓦工美国CN2 GIA线路AFF链接](https://bwg.880805.xyz/)
+请我喝桶装水：[搬瓦工美国CN2 GIA线路AFF链接](https://bwg.880805.xyz/)   
